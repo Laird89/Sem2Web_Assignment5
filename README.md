@@ -18,4 +18,4 @@ This file handles the form submission. It checks for a valid file upload, moves 
 
 actors.php:
 
-This file defines an array of actors with corresponding IDs and names. It checks if the "actorId" is set in the URL parameters (presumably passed through a GET request). If an "actorId" is provided and is valid, it displays the actor's name with an <h1> heading. If the "actorId" is not valid, it shows an "Invalid actor ID" message. This file appears to be a simple actor information retrieval system.
+This file defines an array of actors with corresponding IDs and names. It checks if the "actorId" is set in the URL parameters (presumably passed through a GET request). If an "actorId" is provided and is valid, it displays the actor's name with an h1 heading. If the "actorId" is not valid, it shows an "Invalid actor ID" message. This file appears to be a simple actor information retrieval system.
